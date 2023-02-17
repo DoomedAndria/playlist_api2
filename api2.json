@@ -1,226 +1,290 @@
 [
   {
-    "name": "Born in Winter",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733ac9158414ee0e4042ffc56d",
-    "preview": "https://p.scdn.co/mp3-preview/d55b50a1be71dfb5b0a3792eba16a3f0fae88fdd?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:00:53Z",
-    "artist": "Gojira"
+    "id":1,
+    "name":"Nushi 69",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273f8b68adfe1a0e6330db9b2a6",
+    "preview":"https://p.scdn.co/mp3-preview/4ca7ec55ecbba4e69aece36c3f668808c0404a13?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:04Z"
   },
   {
-    "name": "Hey Daddy",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731c229cb7c9851fb0c67e2af8",
-    "preview": "https://p.scdn.co/mp3-preview/510722c62481fb81799645f81831a1bb4a1d9288?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:02:51Z",
-    "artist": "Korn"
+    "id":2,
+    "name":"Shen",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2735c5f44db56033fee2c6891b3",
+    "preview":"https://p.scdn.co/mp3-preview/2ffe70d22220d596ba82f48bf35c08d7c8839946?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:11Z"
   },
   {
-    "name": "Freak On a Leash",
-    "image": "https://i.scdn.co/image/ab67616d0000b27350d216aebaf98e8ac9947fd5",
-    "preview": "https://p.scdn.co/mp3-preview/3472424d3b44296db74ec353c41aa818e2cc40ad?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:03:40Z",
-    "artist": "Korn"
+    "id":3,
+    "name":"Ar dagacdit dzils",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273f8b68adfe1a0e6330db9b2a6",
+    "preview":"https://p.scdn.co/mp3-preview/8b562b0d9a1648fca5da8da07e1ae8e3bff54350?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:15Z"
   },
   {
-    "name": "Flying Whales",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f7b11aeef189b2ec6857d90e",
-    "preview": "https://p.scdn.co/mp3-preview/54be4596b9c31a95e4f9c6086267b154d63fc779?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:04:28Z",
-    "artist": "Gojira"
+    "id":4,
+    "name":"Akhali mefe",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273f8b68adfe1a0e6330db9b2a6",
+    "preview":"https://p.scdn.co/mp3-preview/489046259ffbfb810d086e2e9e9c2bd55d2e7a87?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:19Z"
   },
   {
-    "name": "Harvest",
-    "image": "https://i.scdn.co/image/ab67616d0000b27313d0ed017d3ad35ed6bd1e90",
-    "preview": "https://p.scdn.co/mp3-preview/9526b55cc61cbab7c858d90810026df12a737ae3?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:04:51Z",
-    "artist": "Opeth"
+    "id":5,
+    "name":"Aranairebs",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273f8b68adfe1a0e6330db9b2a6",
+    "preview":"https://p.scdn.co/mp3-preview/a926d445612a2a7da45b38e9bcb4999ae8b67dba?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:22Z"
   },
   {
-    "name": "Reverie / Harlequin Forest",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736a625dc58ebabb4aee9f97e0",
-    "preview": "https://p.scdn.co/mp3-preview/dd841414e6b0ec793f07564ef33c383ced20d352?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:05:11Z",
-    "artist": "Opeth"
+    "id":6,
+    "name":"Anubisi Da Mweveli",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2737a9b629095d68c62b7b0cc05",
+    "preview":"https://p.scdn.co/mp3-preview/6a22ffdc12de0c6ad1606b1d3f93dc6b7fa2f3bf?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:52Z"
   },
   {
-    "name": "Voice of the Soul",
-    "image": "https://i.scdn.co/image/ab67616d0000b27391fcdc499f2dbfbcd7e58b59",
-    "preview": "https://p.scdn.co/mp3-preview/9bd68077885db727c07d65b813ed9592d329e602?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:05:57Z",
-    "artist": "Death"
+    "id":7,
+    "name":"Anubisi Witel Savardzelshi",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2737a9b629095d68c62b7b0cc05",
+    "preview":"https://p.scdn.co/mp3-preview/ffd95405b938fda5d48321914d7e6a3409b90fc9?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:41:58Z"
   },
   {
-    "name": "Cosmic Sea",
-    "image": "https://i.scdn.co/image/ab67616d0000b273102ca8d392d62662c1938ebd",
-    "preview": "https://p.scdn.co/mp3-preview/72be7b095b5a1d57b20f440f2886f63fd61dc78a?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:06:32Z",
-    "artist": "Death"
+    "id":8,
+    "name":"Anubisi Kinoshi",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2737a9b629095d68c62b7b0cc05",
+    "preview":"https://p.scdn.co/mp3-preview/c8a8489f93ac1f17f225f23218094bb12556c8c3?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:02Z"
   },
   {
-    "name": "The Wizard",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731311a92b0ca83a5154c5a5e7",
-    "preview": "https://p.scdn.co/mp3-preview/6b78808079873d493d7f3ac9da30bbbba28aa231?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:07:27Z",
-    "artist": "Black Sabbath"
+    "id":9,
+    "name":"Daudgomeli",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2733360cbad416f474fe360016f",
+    "preview":"https://p.scdn.co/mp3-preview/95c849d21477874a7bc24ff0087962a7460b9d44?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:12Z"
   },
   {
-    "name": "Neon Knights",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731714d5e8b43f9e63572d550d",
-    "preview": "https://p.scdn.co/mp3-preview/f49680edc33590af0b9bdb25df0f723e6dc39b47?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:11:24Z",
-    "artist": "Black Sabbath"
+    "id":10,
+    "name":"Amerikuli",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2733360cbad416f474fe360016f",
+    "preview":"https://p.scdn.co/mp3-preview/fb6779eeb0ff9680537808e712580e286567d496?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:18Z"
   },
   {
-    "name": "Day of the Lords",
-    "image": "https://i.scdn.co/image/ab67616d0000b27316eb1e685e6bd37ab3228de6",
-    "preview": "https://p.scdn.co/mp3-preview/9b4022bcb601dea0644774a99305dc0f2d32a300?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:11:55Z",
-    "artist": "Joy Division"
+    "id":11,
+    "name":"Angelozebi",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2735c5f44db56033fee2c6891b3",
+    "preview":"https://p.scdn.co/mp3-preview/e9ded764a3e2b83f63580e6c85bc8ee16ece9ca4?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:22Z"
   },
   {
-    "name": "Immigrant Song",
-    "image": "https://i.scdn.co/image/ab67616d0000b27322f1b6c28ce5735646b2e569",
-    "preview": "https://p.scdn.co/mp3-preview/c3b94a09c53f818b83d4eee5401f7b9e257da517?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:14:59Z",
-    "artist": "Led Zeppelin"
+    "id":12,
+    "name":"Isev Ara Chans Mze",
+    "artist":"\u10ec\u10d4\u10e0\u10d8\u10da\u10d8 \u2022 Tserili",
+    "image":"https://i.scdn.co/image/ab67616d0000b2732a1fbcc87d5527fb28edf995",
+    "preview":"https://p.scdn.co/mp3-preview/14046115c9b387d368e44c7369a7070cf449e5aa?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:30Z"
   },
   {
-    "name": "Heartbreaker",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ce69f6900fa18dd689d2d45b",
-    "preview": "https://p.scdn.co/mp3-preview/a00ef639bd3f497c95321f852f1ce14b10e198c7?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:16:23Z",
-    "artist": "Led Zeppelin"
+    "id":13,
+    "name":"Kurota",
+    "artist":"SKAZZ",
+    "image":"https://i.scdn.co/image/ab67616d0000b273fbe8bd2910bd04d1e19d0c4a",
+    "preview":"https://p.scdn.co/mp3-preview/8d037923623432014908c8f7a4f41f86b35f2cdb?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:37Z"
   },
   {
-    "name": "Schism",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1",
-    "preview": "https://p.scdn.co/mp3-preview/c2e7bd82f11f783553c997a1925254b7b25767b9?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:20:59Z",
-    "artist": "TOOL"
+    "id":14,
+    "name":"Crucify The Poor",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273942d3abb273c9df17a5b497c",
+    "preview":"https://p.scdn.co/mp3-preview/34c4e2fd6563730b6d811707b6a9012fea996ce9?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:44Z"
   },
   {
-    "name": "Sober",
-    "image": "https://i.scdn.co/image/ab67616d0000b27382298636c94b8167c4793db2",
-    "preview": "https://p.scdn.co/mp3-preview/c850f80beb21019924536dc04719daf3ec187dff?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:21:05Z",
-    "artist": "TOOL"
+    "id":15,
+    "name":"SAKARTVELO",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273fa0623c388a07bebeb597d85",
+    "preview":"https://p.scdn.co/mp3-preview/a627b71f27fda86b9f9c7057253661702d98b063?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:48Z"
   },
   {
-    "name": "Parabola",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1",
-    "preview": "https://p.scdn.co/mp3-preview/3a14e0154c01477539d116d2b9df8e7766206535?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:21:22Z",
-    "artist": "TOOL"
+    "id":16,
+    "name":"Ametvisto",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b2735c5f44db56033fee2c6891b3",
+    "preview":"https://p.scdn.co/mp3-preview/25367f743aff87625e7ba66fe8fa486d779b70de?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:52Z"
   },
   {
-    "name": "Dark Necessities",
-    "image": "https://i.scdn.co/image/ab67616d0000b27358406b3f1ac3ceaff7a64fef",
-    "preview": "https://p.scdn.co/mp3-preview/dd9a295728b72f34b1eb5cb1d863c9d348badb70?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:23:07Z",
-    "artist": "Red Hot Chili Peppers"
+    "id":17,
+    "name":"And Sorrow, Again",
+    "artist":"Psychonaut 4",
+    "image":"https://i.scdn.co/image/ab67616d0000b273dcafe96808e7d145b3351f7c",
+    "preview":"https://p.scdn.co/mp3-preview/d8a9f951725fa580c10e5051c839764823b00f75?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:42:56Z"
   },
   {
-    "name": "Painkiller",
-    "image": "https://i.scdn.co/image/ab67616d0000b27360db4ca924d17bc6754e89aa",
-    "preview": "https://p.scdn.co/mp3-preview/773bf6c224f8bde9a0b5471209448758b80c248a?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:23:57Z",
-    "artist": "Judas Priest"
+    "id":18,
+    "name":"Chven Kvela Didi Khnis Tsin Movkvdit",
+    "artist":"\u10d3\u10d0\u10d2\u10d3\u10d0\u10d2\u10d0\u10dc\u10d8",
+    "image":"https://i.scdn.co/image/ab67616d0000b2739109d2c519fb0fc1ccc78ee3",
+    "preview":null,
+    "date_added":"2023-02-17T05:43:16Z"
   },
   {
-    "name": "A Sorcerer's Pledge",
-    "image": "https://i.scdn.co/image/ab67616d0000b27316fc29f6941572c718c58c5d",
-    "preview": "https://p.scdn.co/mp3-preview/044998bdf30126f59ffbde9814d3e4216dbdddfd?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:25:38Z",
-    "artist": "Candlemass"
+    "id":19,
+    "name":"Mdevari",
+    "artist":"SKAZZ",
+    "image":"https://i.scdn.co/image/ab67616d0000b27394c71f4034ccc0f7db9e2ff2",
+    "preview":"https://p.scdn.co/mp3-preview/18bd4f00c838b8c108501162589633c3568cb33e?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:20Z"
   },
   {
-    "name": "Would?",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7",
-    "preview": "https://p.scdn.co/mp3-preview/84b0a9284f57e753d0744b3f04f206ce1e64471e?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:29:40Z",
-    "artist": "Alice In Chains"
+    "id":20,
+    "name":"MEMORIAL",
+    "artist":"SKAZZ",
+    "image":"https://i.scdn.co/image/ab67616d0000b273555e6c8ab79ce9b2902b6f3c",
+    "preview":"https://p.scdn.co/mp3-preview/df48da6f1ce907509ebc675c38f79aa7274fc859?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:26Z"
   },
   {
-    "name": "Vicarious",
-    "image": "https://i.scdn.co/image/ab67616d0000b273781369aabc39c792cc55604f",
-    "preview": "https://p.scdn.co/mp3-preview/330a5922697a69788abe4f6e525d063f601c110a?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:34:22Z",
-    "artist": "TOOL"
+    "id":21,
+    "name":"Shishveli Kheebi",
+    "artist":"\u10ec\u10d4\u10e0\u10d8\u10da\u10d8 \u2022 Tserili",
+    "image":"https://i.scdn.co/image/ab67616d0000b273d35a0dd01e7d89db319e0ff4",
+    "preview":"https://p.scdn.co/mp3-preview/b7994a38236b5fd1f0924e1c9aeac1935b0d2f32?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:31Z"
   },
   {
-    "name": "Domination",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
-    "preview": "https://p.scdn.co/mp3-preview/f27d6eed442c2b58e18ee15886fba44e6707c3d9?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:45:40Z",
-    "artist": "Pantera"
+    "id":22,
+    "name":"Gazafkhulia",
+    "artist":"\u10ec\u10d4\u10e0\u10d8\u10da\u10d8 \u2022 Tserili",
+    "image":"https://i.scdn.co/image/ab67616d0000b2732a1fbcc87d5527fb28edf995",
+    "preview":"https://p.scdn.co/mp3-preview/e9b641f23e444f1b05f51015dd65a86bdf66b963?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:35Z"
   },
   {
-    "name": "Shedding Skin",
-    "image": "https://i.scdn.co/image/ab67616d0000b27364fa027e7ef7ce20fa8b46f2",
-    "preview": "https://p.scdn.co/mp3-preview/f5c95114f1dfc68940efcfe293695b7b78952fd6?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-25T21:47:58Z",
-    "artist": "Pantera"
+    "id":23,
+    "name":"Tbilisian Tragedy",
+    "artist":"Psychonaut 4",
+    "image":"https://i.scdn.co/image/ab67616d0000b273dcafe96808e7d145b3351f7c",
+    "preview":"https://p.scdn.co/mp3-preview/face1862881a0376872f350f961b6970c8ca18b9?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:39Z"
   },
   {
-    "name": "Thriller",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
-    "preview": "https://p.scdn.co/mp3-preview/db3785344f42de76b280bd49aac5aa8f494d3804?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T07:32:32Z",
-    "artist": "Michael Jackson"
+    "id":24,
+    "name":"Dust, the Enemy",
+    "artist":"Psychonaut 4",
+    "image":"https://i.scdn.co/image/ab67616d0000b273dcafe96808e7d145b3351f7c",
+    "preview":"https://p.scdn.co/mp3-preview/782fcdf820fd85a811e7256f92480cedba579425?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:43Z"
   },
   {
-    "name": "Hey You",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fd30c3bcaf0e953abdaeaf99",
-    "preview": "https://p.scdn.co/mp3-preview/838e49c722ceeed983db96afb26fe05aa1b4d618?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T07:42:11Z",
-    "artist": "Pink Floyd"
+    "id":25,
+    "name":"AR GTMOB",
+    "artist":"SKAZZ",
+    "image":"https://i.scdn.co/image/ab67616d0000b2733815a6827b04800cbb386d7b",
+    "preview":"https://p.scdn.co/mp3-preview/1e3dc4a1e31fd8b1c044367097d306294532b991?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:48Z"
   },
   {
-    "name": "Holiday in Cambodia",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731184b5e2bb68648a847550d5",
-    "preview": "https://p.scdn.co/mp3-preview/66b617542d3e8d7a8bf28b12b927cc59e89c855b?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T14:11:57Z",
-    "artist": "Dead Kennedys"
+    "id":26,
+    "name":"Tkivilgamakuchebeli",
+    "artist":"\u10d3\u10d0\u10d2\u10d3\u10d0\u10d2\u10d0\u10dc\u10d8",
+    "image":"https://i.scdn.co/image/ab67616d0000b2739109d2c519fb0fc1ccc78ee3",
+    "preview":null,
+    "date_added":"2023-02-17T05:43:51Z"
   },
   {
-    "name": "Anubisi Witel Savardzelshi",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737a9b629095d68c62b7b0cc05",
-    "preview": "https://p.scdn.co/mp3-preview/ffd95405b938fda5d48321914d7e6a3409b90fc9?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T14:33:54Z",
-    "artist": "Quemmekh"
+    "id":27,
+    "name":"Sheni Panjridan",
+    "artist":"Erekle Deisadze",
+    "image":"https://i.scdn.co/image/ab67616d0000b273abb818aacd3efc6bdbddae65",
+    "preview":"https://p.scdn.co/mp3-preview/cdf18ecf582ff8873133d4e59ef95965b7f3587e?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:43:59Z"
   },
   {
-    "name": "The Ultra-Violence",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ae8890246d91b2b3cb4511f4",
-    "preview": "https://p.scdn.co/mp3-preview/e1732d956a89f31fcd2461a7800fd997cd8a8b42?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T14:40:25Z",
-    "artist": "Death Angel"
+    "id":28,
+    "name":"Iare",
+    "artist":"Erekle Deisadze",
+    "image":"https://i.scdn.co/image/ab67616d0000b273abb818aacd3efc6bdbddae65",
+    "preview":"https://p.scdn.co/mp3-preview/3c3cb4c4e396f21bacd3835723a17f2af8219818?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:44:04Z"
   },
   {
-    "name": "Them Bones",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7",
-    "preview": "https://p.scdn.co/mp3-preview/81df9c7569decb17446659c7a8264f99e962f05f?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T14:43:12Z",
-    "artist": "Alice In Chains"
+    "id":29,
+    "name":"Itsame Chemi",
+    "artist":"Erekle Deisadze",
+    "image":"https://i.scdn.co/image/ab67616d0000b273abb818aacd3efc6bdbddae65",
+    "preview":"https://p.scdn.co/mp3-preview/243b4d99ccf4b1f658a38e38ef470eac07b08d40?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:44:14Z"
   },
   {
-    "name": "Passage of Time",
-    "image": "https://i.scdn.co/image/ab67616d0000b27376cf1dc1960e986c309f79b9",
-    "preview": "https://p.scdn.co/mp3-preview/df601953422f0db251cf62e05c50e69108b1f48c?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T19:06:56Z",
-    "artist": "Edge Of Sanity"
+    "id":30,
+    "name":"Hitleri Mtvareze",
+    "artist":"\u10d3\u10d0\u10d2\u10d3\u10d0\u10d2\u10d0\u10dc\u10d8",
+    "image":"https://i.scdn.co/image/ab67616d0000b273d36de55a677758b96ca6955c",
+    "preview":null,
+    "date_added":"2023-02-17T05:44:26Z"
   },
   {
-    "name": "Aerials",
-    "image": "https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578",
-    "preview": "https://p.scdn.co/mp3-preview/fd7f7443cfde56aebbf4261e83f366207c305324?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T20:41:05Z",
-    "artist": "System Of A Down"
+    "id":31,
+    "name":"Shens Baghshi Khe",
+    "artist":"\u10d3\u10d0\u10d2\u10d3\u10d0\u10d2\u10d0\u10dc\u10d8",
+    "image":"https://i.scdn.co/image/ab67616d0000b273d36de55a677758b96ca6955c",
+    "preview":null,
+    "date_added":"2023-02-17T05:44:30Z"
   },
   {
-    "name": "Crazy Train",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737888b13de7d93e75e3bea0c7",
-    "preview": "https://p.scdn.co/mp3-preview/a229b5c5db9366d0ed5e47e83f9aeb9daeae4fe0?cid=774b29d4f13844c495f206cafdad9c86",
-    "date_added": "2021-02-26T20:53:08Z",
-    "artist": "Ozzy Osbourne"
+    "id":32,
+    "name":"Personal Forest - S.D. Ramirez Version",
+    "artist":"Psychonaut 4",
+    "image":"https://i.scdn.co/image/ab67616d0000b273d2c52ee6baf6cc137d24f97b",
+    "preview":"https://p.scdn.co/mp3-preview/d722d7ffab55c3a78f569a29543ebaf8d5b65791?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:46:14Z"
+  },
+  {
+    "id":33,
+    "name":"Am Anarkias",
+    "artist":"SKAZZ",
+    "image":"https://i.scdn.co/image/ab67616d0000b273555e6c8ab79ce9b2902b6f3c",
+    "preview":"https://p.scdn.co/mp3-preview/4db2c044b9c45099a237db257a037216ede3d0dc?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:51:41Z"
+  },
+  {
+    "id":34,
+    "name":"Sheni Fanjris Iqit",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273ab724e4e086a50ac23688b9f",
+    "preview":"https://p.scdn.co/mp3-preview/639a3eb6225614c68886889edf762e153754576c?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:55:49Z"
+  },
+  {
+    "id":35,
+    "name":"Gentrification",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273e68f7098b188d32419c6c8d2",
+    "preview":"https://p.scdn.co/mp3-preview/c0c00c1d696205df6dc776bf92cd33fe8eed5a50?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:56:34Z"
+  },
+  {
+    "id":36,
+    "name":"Ajanydi",
+    "artist":"Quemmekh",
+    "image":"https://i.scdn.co/image/ab67616d0000b273f1e663b4f2cb0f26665cf754",
+    "preview":"https://p.scdn.co/mp3-preview/9b80536c66264200d6608525ec6a181f25d19c21?cid=774b29d4f13844c495f206cafdad9c86",
+    "date_added":"2023-02-17T05:58:56Z"
   }
 ]
